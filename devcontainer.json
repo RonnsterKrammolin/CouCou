@@ -1,0 +1,9 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/windows:11",
+  "features": {
+    "python": {
+      "version": "3.11",
+      "installUsingPyenv": false
+    }
+  }
+}
